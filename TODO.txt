@@ -1,1 +1,36 @@
-Inne rzeczy
+STÓŁ
+-> Wykreowanie
+-> Mapowanie UV
+-> Nałożenie tekstury
+
+
+PC
+-> Wykreowanie
+-> Mapowanie UV
+-> Nałożenie tekstury
+
+
+Mysz komputerowa
+-> Wykreowanie
+-> Mapowanie UV
+-> Nałożenie tekstury
+
+
+Klawiatura komputerowa
+-> Wykreowanie
+-> Mapowanie UV
+-> Nałożenie tekstury
+
+
+Pingwin
+-> Mapowanie UV
+-> Nałożenie tekstury
+-> Stworzenie szkieletu
+-> Połączenie szkieletu z modelem postaci (rigging)
+
+
+Wersja ostateczna:
+-> Pozycjonowanie gotowych obiektów w układzie kartezjańskim
+-> stworzenie animacji
+
+
