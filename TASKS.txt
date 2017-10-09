@@ -1,0 +1,23 @@
+PODZIAŁ ZADAŃ
+
+juliagoda
+- Modelowanie stołu, PC, klawiatury, myszki komputerowej
+- Mapowanie UV elementów powyższych
+- Nakładanie tesktury na elementy powyższe
+- Zapis wymodelowanych elementów w osobnych plikach *.blend
+
+krystian904
+- Modelowanie postaci pingwina
+- Mapowanie UV postaci
+- Nakładanie tekstury na postać
+- Projektowanie szkieletu postaci
+- Połączenie szkieletu z modelem postaci
+- Połączenie wszystkich obiektów we wspólnym pliku *.blend
+- Animacja
+
+sir_lucjan
+- Administracja organizacją na stronie https://github.com/WSEI-2015-Team
+- Ustalanie zabezpieczeń dostępu przed osobami niepowołanymi
+- Przydzielanie praw dostępu na terenie organizacji
+- Ustawianie konfiguracji na stronie
+- Kontrola przebiegu pracy na stronie organizacji
