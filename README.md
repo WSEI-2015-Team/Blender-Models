@@ -2,4 +2,4 @@
 
 # Blender-Models
 
-# Projekt zarezerwowany na zaliczenie przedmiotu
+# Bierz i częstuj się do woli. 

@@ -1,4 +1,4 @@
-STÓŁ
+﻿STÓŁ
 -> Wykreowanie
 -> Mapowanie UV
 -> Nałożenie tekstury
@@ -23,10 +23,10 @@ Klawiatura komputerowa
 
 
 Pingwin
--> Mapowanie UV
--> Nałożenie tekstury
--> Stworzenie szkieletu
--> Połączenie szkieletu z modelem postaci (rigging)
+-> Mapowanie UV [krystian , robie]
+-> Nałożenie tekstury [krystian , robie]
+-> Stworzenie szkieletu [krystian , robie]
+-> Połączenie szkieletu z modelem postaci (rigging) [krystian , robie]
 
 
 Wersja ostateczna:
