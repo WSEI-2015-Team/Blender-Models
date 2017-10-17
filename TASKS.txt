@@ -1,4 +1,4 @@
-PODZIAŁ ZADAŃ
+﻿PODZIAŁ ZADAŃ
 
 juliagoda
 - Modelowanie stołu, PC, klawiatury, myszki komputerowej
@@ -21,3 +21,9 @@ sir_lucjan
 - Przydzielanie praw dostępu na terenie organizacji
 - Ustawianie konfiguracji na stronie
 - Kontrola przebiegu pracy na stronie organizacji
+
+nowe zadania 2017-10-17
+projekt jest w ostaniej fazie 
+jagoda naluz textury w pliku united tylko go nie popsuj ;)
+
+
